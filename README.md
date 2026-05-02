@@ -32,6 +32,4 @@ This project performs Exploratory Data Analysis (EDA) on a student dataset to un
 ## 📌 Key Insight
 Visual analysis helps understand student performance patterns based on attendance and CGPA.
 
-## 🚀 How to Run
-```bash
-pip install pandas numpy seaborn
+
